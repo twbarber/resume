@@ -8,7 +8,7 @@ twbarber.com • me@twbarber.com • github.com/twbarber
 [education]: <>
 ### Education
 
-### May 2014 B.A Computer Science ### - SUNY Potsdam, Potsdam, New York
+### May 2014 B.A Computer Science - SUNY Potsdam, Potsdam, New York
 
 [work]: <>
 ### Work
