@@ -1,15 +1,13 @@
-<p align="center">
-  <span style="font-size: 24px; font-weight: bold">Tyler Barber</span><br>  
-  twbarber.com • me@twbarber.com • github.com/twbarber
-</p>  
+# Tyler Barber   
+twbarber.com • me@twbarber.com • github.com/twbarber
 
-#### Profile
+### Profile
 
-#### Education
+### Education
 
 **May 2014 B.A Computer Science** - SUNY Potsdam, Potsdam, New York
 
-#### Work
+### Work
 
 **Rocket Travel, Inc. - Chicago, IL and Full Time Remote: December 2017 - Present**
 
@@ -20,8 +18,8 @@
 *Software Engineer:*
 
 **CME Group - Chicago, IL: July 2014 - March 2016**
-
 *Software Engineer II:*
+
 
 **Vermont Information Processing - Colchester, VT and Part Time Remote: January 2014 - June 2014**
 
@@ -32,4 +30,4 @@
 *Intern:*
 
 
-#### Personal Projects
+### Personal Projects
