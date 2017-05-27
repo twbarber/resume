@@ -1,12 +1,15 @@
 [contact]: <>
 # Tyler Barber   
 twbarber.com • me@twbarber.com • github.com/twbarber
+[/contact]: <>
 
 [profile]: <>
 ### Profile
+[/profile]: <>
 
 [education]: <>
 ### Education
+[/education]: <>
 
 **May 2014 B.A Computer Science** - SUNY Potsdam, Potsdam, New York
 
@@ -33,5 +36,8 @@ twbarber.com • me@twbarber.com • github.com/twbarber
 
 *Intern:*
 
+[/work]: <>
+
 [person_projects]: <>
 ### Personal Projects
+[/person_projects]: <>
