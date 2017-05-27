@@ -5,10 +5,12 @@ twbarber.com • me@twbarber.com • github.com/twbarber
 [profile]: <>
 ### Profile
 
+Senior Software Engineer with a passion for developing well written and maintainable code, an affinity towards Open Source Software and Remote Work, and a desire to be part of a successful team.
+
 [education]: <>
 ### Education
 
-### May 2014 B.A Computer Science - SUNY Potsdam, Potsdam, New York
+**May 2014 B.A Computer Science** - SUNY Potsdam, Potsdam, New York
 
 [work]: <>
 ### Work
