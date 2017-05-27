@@ -1,12 +1,16 @@
+[contact]: <>
 # Tyler Barber   
 twbarber.com • me@twbarber.com • github.com/twbarber
 
+[profile]: <>
 ### Profile
 
+[education]: <>
 ### Education
 
 **May 2014 B.A Computer Science** - SUNY Potsdam, Potsdam, New York
 
+[work]: <>
 ### Work
 
 **Rocket Travel, Inc. - Chicago, IL and Full Time Remote: December 2017 - Present**
@@ -29,5 +33,5 @@ twbarber.com • me@twbarber.com • github.com/twbarber
 
 *Intern:*
 
-
+[person_projects]: <>
 ### Personal Projects
