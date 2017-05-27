@@ -1,0 +1,28 @@
+{
+  "basics": {
+    "name": "Tyler Barber",
+    "label": "Senior Software Engineer",
+    "picture": "",
+    "email": "me@twbarber.com",
+    "phone": "",
+    "website": "twbarber.com",
+    "summary": "Senior Software Engineer with a passion for developing well written and maintainable code, an affinity towards Open Source Software and Remote Work, and a desire to be part of a successful team.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
