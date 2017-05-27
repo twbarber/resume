@@ -16,12 +16,55 @@
     },
     "profiles": []
   },
-  "work": [],
-  "volunteer": [],
-  "education": [],
+  "work": [{
+    "company": "Rocket Travel, Inc.",
+    "position": "Senior Software Engineer",
+    "startDate": "2016-12-16",
+    "endDate": "Present",
+    "summary": "Lead development on an SSO Session management REST service written using Kotlin and Spring Boot. Also responsible for building client libraries that interact with partner Web APIs. Helped launch multiple hotel reservation services for a variety of airline rewards programs. Developed a system that allowed for asynchronous accrual of airline mile rewards.",
+    "highlights": []
+  }, {
+    "company": "Uptake",
+    "position": "Software Engineer",
+    "startDate": "2016-03-14",
+    "endDate": "2016-12-13",
+    "summary": "Assisted in design, implementation, and testing of a role-based access control system for Uptake's Core API. Prototyped further development of this system using Neo4j. Assisted in an effort to establish a culture of proper testing and version control usage conducive to Continuous Delivery.",
+    "highlights": []
+  }, {
+    "company": "CME Group",
+    "position": "Software Engineer II",
+    "startDate": "2014-07-01",
+    "endDate": "2016-03-11",
+    "summary": "Added functionality to and maintained a SOAP Web API for managing and monitoring trading sessions on the Chicago Mercantile Exchange. Also continued development on an application configuration management server used across the CME.",
+    "highlights": []
+  }, {
+    "company": "Vermont Information Processing",
+    "position": "Intern",
+    "startDate": "2013-12-01",
+    "endDate": "2014-06-01",
+    "summary": "Developed a tool for QC ticket aggregation using Java, JavaScript, EXTJS, SQL, JSON, Spring, Apache Tomcat and LDAP. The tool improved the overall productivity of the QC team and provided metrics to see how well the company caught defects prior to shipping a release.",
+    "highlights": []
+  }, {
+    "company": "Construction Information Systems",
+    "position": "Intern",
+    "startDate": "2013-05-21",
+    "endDate": "2014-08-30",
+    "summary": "Used HTML and CSS to create websites for marketing new products. Met with clients and customized different organizational reports for their specifications using Crystal Reports and SQL.",
+    "highlights": []
+  }],
+  "education": [{
+    "institution": "SUNY Potsdam",
+    "area": "Computer Science",
+    "studyType": "Bachelor of Arts",
+    "startDate": "",
+    "endDate": "2014-05-14",
+    "courses": []
+  }],
   "awards": [],
   "publications": [],
-  "skills": [],
+  "skills": [{
+    "name": "Kotlin"
+  }],
   "languages": [],
   "interests": [],
   "references": []
